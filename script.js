@@ -1,1 +1,1 @@
-document.getElementById('clock').textContent = '12345';
+document.getElementById('clock').textContent = new Date();
